@@ -1,0 +1,11 @@
+.custom-navbar {
+    border-radius: 15px;
+}
+
+#chevron-arrow-right {
+    display: inline-block;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    width: 15px; height: 15px;
+    transform: rotate(-45deg);
+  }
